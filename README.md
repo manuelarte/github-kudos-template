@@ -17,7 +17,7 @@ So, for example, you want to give kudos to the user @manuelarte, you would need 
 
 ### Get the image
 
-Once you wrote down your kudos message, you can view the image generated from it at https://github-kudos.com/<your-github-username>/kudos/<other-github-username>.
+Once you wrote down your kudos message, you can view the image generated from it at `https://github-kudos.com/{{your-github-username}}/kudos/{{other-github-username}}`.
 
 ## Examples
 

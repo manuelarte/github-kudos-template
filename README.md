@@ -2,7 +2,7 @@
 > Remember to name your repo **github-kudos**
 
 # GitHub-Kudos Template
-Template to use github-kudos. Here you can write your kudos to other github users.
+Template to use github-kudos. Use this repo as a template to write your kudos to other github users.
 
 ## Getting Started
 

@@ -23,11 +23,11 @@ Once you wrote down your kudos message, you can view the image generated from it
 
 ### Alice and Bob
 
-So imagine that Alice (username alice) wants to give kudos to Bob (username bob). What alice needs to do is:
+So imagine that Alice (username *alice*) wants to give kudos to Bob (username *bob*). What Alice needs to do is:
 
 + Use this template to create a new repository called **github-kudos**.
 + Create a file named **bob.md**, and write a message.
-+ Now, her recommendation is available at https://github-kudos.com/alice/kudos/bob
++ Now, her kudos image is available at **https://github-kudos.com/alice/kudos/bob**
 
 ### See It In Action
 

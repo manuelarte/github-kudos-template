@@ -25,7 +25,7 @@ Once you wrote down your kudos message, you can view the image generated from it
 
 Here it is an example on how an already existing kudos image looks like:
 
-![kudos](https://github-kudos.com/manuelarte/kudos/octocat)
+![kudos](https://github-kudos.com/manuelarte/kudos/octocat?alpha=100)
 
 ### Alice and Bob
 

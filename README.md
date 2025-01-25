@@ -21,6 +21,12 @@ Once you wrote down your kudos message, you can view the image generated from it
 
 ## Examples
 
+### Already Existing Kudos
+
+Here it is an example on how an already existing kudos image looks like:
+
+![kudos](https://github-kudos.com/manuelarte/kudos/octocat)
+
 ### Alice and Bob
 
 So imagine that Alice (username *alice*) wants to give kudos to Bob (username *bob*). What Alice needs to do is:

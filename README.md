@@ -38,6 +38,6 @@ So imagine that Alice (username *alice*) wants to give kudos to Bob (username *b
 ### See It In Action
 
 + You can check an example on how GitHub-Kudos repository could look like at [my repository](https://github.com/manuelarte/github-kudos)
-+ Another example on how the github-kudos app can be used to display kudos in a [GitHub profile](https://github.com/manuelarte](https://github.com/manuelarte#-people-i-recommend)
++ Another example on how the github-kudos app can be used to display kudos in a [GitHub profile](https://github.com/manuelarte#-people-i-recommend)
 
 

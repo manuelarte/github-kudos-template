@@ -27,13 +27,13 @@ Here it is an example on how an already existing kudos image looks like:
 
 ![kudos](https://github-kudos.com/manuelarte/kudos/octocat?alpha=255)
 
-### Alice and Bob
+### Manuelarte and Octocat
 
-So imagine that Alice (username *alice*) wants to give kudos to Bob (username *bob*). What Alice needs to do is:
+So imagine that Manuelarte (username *manuelarte*) wants to give kudos to Octocat (username *octocat*). What Manuelarte needs to do is:
 
-+ Use this template to create a new repository called **github-kudos**.
-+ Create a file named **bob.md**, and write a message.
-+ Now, her kudos image is available at **https://github-kudos.com/alice/kudos/bob**
++ Use this template to create a new repository called **manuelarte/github-kudos**.
++ Create a file named **octocat.md**, and write a message.
++ Now, her kudos image is available at **https://github-kudos.com/manuelarte/kudos/octocat**
 
 ### See It In Action
 

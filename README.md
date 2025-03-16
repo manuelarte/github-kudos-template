@@ -27,8 +27,6 @@ So, for example, you want to give kudos to the user *@manuelarte*, you would nee
 
 ## Examples
 
-### Already Existing Kudos
-
 ### Manuelarte and Octocat
 
 So imagine that Manuelarte (username [*manuelarte*](https://github.com/manuelarte)) wants to give kudos to Octocat (username [*octocat*](https://github.com/octocat)). What Manuelarte needs to do is:

@@ -16,7 +16,7 @@ So make sure that your repo is called like that.
 ### Write Kudos
 
 > [!IMPORTANT]  
-> To write kudos to someone, create a ***markdown file with their GitHub username**.
+> To write kudos to someone, create a **markdown file with their GitHub username**.
 
 So, for example, you want to give kudos to the user *@manuelarte*, you would need to create a file called **manuelarte.md**, and put your kudos message inside that file.
 

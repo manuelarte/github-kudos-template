@@ -23,7 +23,7 @@ So, for example, you want to give kudos to the user *@manuelarte*, you would nee
 ### Get the image
 
 > [!TIP]  
-> You can view the image generated from it at `https://github-kudos.com/{{your-github-username}}/kudos/{{other-github-username}}`.
+> You can view the image generated from your kudos at `https://github-kudos.com/{{your-github-username}}/kudos/{{other-github-username}}`.
 
 ## Examples
 

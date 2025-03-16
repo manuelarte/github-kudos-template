@@ -39,7 +39,7 @@ So imagine that Manuelarte (username [*manuelarte*](https://github.com/manuelart
 
 ### See It In Action
 
-+ You can check an example on how GitHub-Kudos repository could look like at [manuelarte/github-kudos](https://github.com/manuelarte/github-kudos)
-+ Another example on how the github-kudos app can be used to display kudos in a [GitHub profile](https://github.com/manuelarte#-people-i-recommend)
++ Example [manuelarte/github-kudos](https://github.com/manuelarte/github-kudos)
++ Example on how GitHub-Kudos app can be used to display kudos in a [GitHub profile](https://github.com/manuelarte#-people-i-recommend)
 
 

@@ -29,10 +29,6 @@ So, for example, you want to give kudos to the user *@manuelarte*, you would nee
 
 ### Already Existing Kudos
 
-Here it is an example on how an already existing kudos image looks like:
-
-![kudos](https://github-kudos.com/manuelarte/kudos/octocat?alpha=255)
-
 ### Manuelarte and Octocat
 
 So imagine that Manuelarte (username [*manuelarte*](https://github.com/manuelarte)) wants to give kudos to Octocat (username [*octocat*](https://github.com/octocat)). What Manuelarte needs to do is:
@@ -40,6 +36,8 @@ So imagine that Manuelarte (username [*manuelarte*](https://github.com/manuelart
 + Use this template to create a new repository called [**manuelarte/github-kudos**](https://github.com/manuelarte/github-kudos).
 + Create a file named [**octocat.md**](https://github.com/manuelarte/github-kudos/octocat.md), and write a message.
 + Now, her kudos image is available at [**https://github-kudos.com/manuelarte/kudos/octocat**](https://github-kudos.com/manuelarte/kudos/octocat)
+
+![kudos](https://github-kudos.com/manuelarte/kudos/octocat?alpha=255)
 
 ### See It In Action
 

@@ -41,8 +41,6 @@ So imagine that Manuelarte (username [*manuelarte*](https://github.com/manuelart
 + Create a file named [**octocat.md**](https://github.com/manuelarte/github-kudos/octocat.md), and write a message.
 + Now, her kudos image is available at [**https://github-kudos.com/manuelarte/kudos/octocat**](https://github-kudos.com/manuelarte/kudos/octocat)
 
-![manuelarte kudos octocat](https://github-kudos.com/manuelarte/kudos/octocat)
-
 ### See It In Action
 
 + You can check an example on how GitHub-Kudos repository could look like at [manuelarte/github-kudos](https://github.com/manuelarte/github-kudos)
